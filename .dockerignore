@@ -3,3 +3,4 @@ build.sh
 LICENSE
 README.md
 run.sh
+table_schema_for_repro_copy.sql.diff
